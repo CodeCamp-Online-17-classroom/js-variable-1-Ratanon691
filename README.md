@@ -4,3 +4,4 @@
 - ใส่ชื่อตัวเองลงในตัวแปร name
 - นำค่าที่อยู่ในตัวแปร name ไปใส่ให้ person 
 - เมื่อ alert(person) ออกมาต้องเป็นชื่อตัวเอง
+Rattanon Tunwittaya
