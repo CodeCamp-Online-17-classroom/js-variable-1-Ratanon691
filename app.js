@@ -1,1 +1,3 @@
-// write code here
+let name = 'Rattanon'
+let person = name
+alert(person)
